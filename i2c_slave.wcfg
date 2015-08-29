@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/MyXilinx/I2C_slave/I2C_slave_TB_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="i2c_slave_tb" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="textio" />
+            <top_module name="txt_util" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/i2c_slave_tb/scl_test" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">scl_test</obj_property>
+      <obj_property name="ObjectShortName">scl_test</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/sda_test" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sda_test</obj_property>
+      <obj_property name="ObjectShortName">sda_test</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/clk_test" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_test</obj_property>
+      <obj_property name="ObjectShortName">clk_test</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/rst_test" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst_test</obj_property>
+      <obj_property name="ObjectShortName">rst_test</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/state_dbg" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">state_dbg</obj_property>
+      <obj_property name="ObjectShortName">state_dbg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/received_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">received_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">received_data[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/ack" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ack</obj_property>
+      <obj_property name="ObjectShortName">ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/read_req" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">read_req</obj_property>
+      <obj_property name="ObjectShortName">read_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/data_to_master" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_to_master[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_to_master[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/data_valid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">data_valid</obj_property>
+      <obj_property name="ObjectShortName">data_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/data_from_master" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_from_master[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_from_master[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/i2c_slave_tb/data_from_master_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_from_master_reg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_from_master_reg[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\MyXilinx\I2C_slave\I2C_slave.ncd
+OUTFILE=D:\MyXilinx\I2C_slave\I2C_slave.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s200a-4vq100
+WORKINGDIR=D:\MyXilinx\I2C_slave
+LICENSE=WebPack
+USER_INFO=210479218_0_0_831

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/MyXilinx/I2C_slave/I2C_slave_TB_isim_beh.exe" -prj "D:/MyXilinx/I2C_slave/I2C_slave_TB_beh.prj" "work.I2C_slave_TB" 

@@ -1,0 +1,12 @@
+net clk                 loc=p43;  # 12 MHz input clock.
+net scl                 loc=p36;  # Chan0
+net sda                 loc=p37;  # Chan1
+net rst                 loc=p39;  # Chan2
+net data_from_master(0) loc=p50;  # Chan3
+net data_from_master(1) loc=p52;  # Chan4
+net data_from_master(2) loc=p56;  # Chan5
+net data_from_master(3) loc=p57;  # Chan6
+net data_from_master(4) loc=p72;  # Chan10
+net data_from_master(5) loc=p73;  # Chan11
+net data_from_master(6) loc=p35;  # Chan15
+net data_from_master(7) loc=p34;  # Chan16

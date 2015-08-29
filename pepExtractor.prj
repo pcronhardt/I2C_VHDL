@@ -1,0 +1,2 @@
+work	"../i2c_source/I2C_slave.vhd"
+work	"../i2c_source/txt_util.vhd"
