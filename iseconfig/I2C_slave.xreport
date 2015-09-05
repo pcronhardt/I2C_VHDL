@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2015-08-28T20:24:20</DateModified>
+  <DateModified>2015-09-05T09:47:16</DateModified>
   <ModuleName>I2C_slave</ModuleName>
-  <SummaryTimeStamp>2015-08-07T14:18:26</SummaryTimeStamp>
+  <SummaryTimeStamp>2015-09-05T09:46:25</SummaryTimeStamp>
   <SavedFilePath>D:/MyXilinx/I2C_slave/iseconfig/I2C_slave.xreport</SavedFilePath>
   <ImplementationReportsDirectory>D:/MyXilinx/I2C_slave\</ImplementationReportsDirectory>
   <DateInitialized>2015-08-07T13:42:33</DateInitialized>
